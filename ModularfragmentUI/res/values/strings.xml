@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ModularfragmentUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="chapter">
+        <item>Bhangarh Fort - Rajasthan</item>
+        <item>Highgate Cemetery - North London, England</item>
+        <item>Screaming Tunnel - Niagara Falls, Ontario</item>
+        <item>Changi Beach - Singapore</item>
+        <item>Monte Cristo - New South Wales, Australia</item>
+    </string-array>
+    <string-array name="description">
+        <item>Bhangarh Fort / Kila is located on the way to Alwar and Jaipur in Rajasthan in India. As per a legend there was a black magic sorcerer who cursed the residents of the palace that they all would die an unnatural death and their spirits will stay there for centuries to haunt the fort / kila forever. This fort would really freak any living mortal. One can seldom find a temporary household in the close periphery of this fort. Let us reveal you one more fact about this place. The village households found here are without roofs as there persists a popular belief and experience that the moment a rooftop is built on a house it collapses. This is said to be the most haunted place in India and amongst world s most haunted places. People are not allowed to spend the night in the fort, for obvious reasons. Believe us it is also said that anybody who has been to this place after dusk never comes back ! </item>
+        <item>This is just like watching a horror flick of Alfred Hitchcock in reality. By the time dusk settles down the ultimate horror environment starts to descend on the panorama. Highgate cemetery is one ideal place for ghost hunters. Headless statues, creaky pathways, unmanaged grass pavements and lest we forget the typical hooting of owls is a common feature to be found in this place. High gate cemetery also scores the top slot in being the haunted places in United Kingdom. Still one cannot ignore the Gothic architecture, beautiful serene ambiance and lest we forget the shivery silence which overrules the entire arena!</item>
+        <item>This one is for those brave hearts boasting hard of their fearless spirits. This is located beneath the railway track that connects Niagara falls to Toronto and New York. As per a legend about a century ago there was a farm house located just near the south entrance of this tunnel. One night the farm house caught fire and a young girl doused in flame screaming for help running wild.Nobody knows the story how the farm house caught fire. She ran through the tunnel if in case she could get some help but alas she was burnt completely and collapsed. So from that day onwards whoever tries lighting a match in the tunnel the spirit comes out screaming and haunting the person till dead. Check out for yourself the truth!</item>
+        <item>Changi Beach in Singapore is the ultimate one. The Changi beach in Singapore is believed of being a popular killing ground of the Chinese soldiers by the Japanese during the second world war. Thousands of Chinese soldiers were tortured and killed during this operation as they were suspected by the Japanese of getting into anti Japanese activities. This beach stands witness to the killing of innumerable innocent chinese. Till date beach combers thronging to this place could hear the screams and weeping of people. Often at night people could also find deep dig pits as that needed for burials of dead bodies. The most horrifying is that some beach combers have found headless bodies of chinese soldiers on the beach at night.</item>
+        <item>Monte Christo mansion is recalled by travellers as a place which shouldnt even haunt the memories. As per people s version Mrs Crawley the owner of this mansion locked herself up after the death of her husband and never came out in the rest 23 years of her life except for once. She died in there and her spirit lingers in the mansion. Passerby could hear the shrills and weeping of a woman. People who visit the mansion get suffocated as if some spirit is trying to press in them. They get respite of the shackles only when they come out. Instances have also been cited of people turning blue. Well this all sounds to be so horrifying and weird so now all those dare devils out there pack your bags and get to these places to test the genuineness of the evident truth or may be myth.</item>
+    </string-array>
+
+</resources>
